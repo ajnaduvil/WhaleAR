@@ -6,6 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/App/Scenes/Main.unity
-    guid: 4ef55ab8a9a1c51479f1017faec6e6e9
-  m_configObjects: {}
+    path: Assets/AR Foundation Samples/Scenes/SimpleAR/SimpleAR.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 49cbe207339b71b49be93b045eb1290b,
+      type: 2}
